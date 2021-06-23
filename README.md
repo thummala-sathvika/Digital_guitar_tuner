@@ -1,8 +1,8 @@
 # Digital_guitar_tuner
-When the program starts, the string number has to be selected which are
+#When the program starts, the string number has to be selected which are
 numbered from 1 to 6.
-The fundamental frequency of each string is given and stored in an array
-The approximate error frequency is defined as 30Hz.
+#The fundamental frequency of each string is given and stored in an array
+#The approximate error frequency is defined as 30Hz.
 The computer records the audio signal provided by the user for 2.5 seconds and
 stores it.
 The input audio signal is processed and Frequency response
